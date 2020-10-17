@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Access denied!' => '',
-    'Adds a bookmark link for content.' => '',
-    'Bookmark' => '',
-    'Bookmarks' => '',
-    'Shows up your bookmarked content.' => '',
-    'Submit' => '',
+    'Access denied!' => 'Accesso non consentito!',
+    'Adds a bookmark link for content.' => 'Aggiunge un collegamento a un segnalibro per il contenuto.',
+    'Bookmark' => 'Segnalibro',
+    'Bookmarks' => 'Segnalibri',
+    'Shows up your bookmarked content.' => 'Mostra i contenuti dove hai messo un segnalibro',
+    'Submit' => 'Invia',
 ];
