@@ -17,5 +17,5 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<b>You have not set a bookmark yet!</b><br>Search for content that interests you and bookmark it!' => '',
+    '<b>You have not set a bookmark yet!</b><br>Search for content that interests you and bookmark it!' => '<b> Non hai ancora impostato un segnalibro! </b> <br> Cerca il contenuto che ti interessa e aggiungilo ai segnalibri!',
 ];
