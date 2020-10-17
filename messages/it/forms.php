@@ -17,15 +17,15 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '<strong>Bookmark</strong> module configuration' => '',
-    'Back to modules' => '',
-    'Bookmark view settings' => '',
-    'Here you can change the view settings for bookmarks.' => '',
-    'Icon color' => '',
-    'Select color' => '',
-    'Show Bookmark-Count in braces.' => '',
-    'Show an icon for each entry.' => '',
-    'Show global Bookmark-View in full width.' => '',
-    'Show pinned content first.' => '',
-    'Sort order' => '',
+    '<strong>Bookmark</strong> module configuration' => 'Configurazione del modulo <strong> Segnalibri </strong>',
+    'Back to modules' => 'Torna ai moduli',
+    'Bookmark view settings' => 'impostazioni di visualizzazione segnalibri',
+    'Here you can change the view settings for bookmarks.' => 'Qui puoi modificare le impostazioni di visualizzazione per i segnalibri.',
+    'Icon color' => 'Colore icona',
+    'Select color' => 'Scegli il colore',
+    'Show Bookmark-Count in braces.' => 'Mostra il conteggio dei segnalibri',
+    'Show an icon for each entry.' => 'Mostra una icona per ogni segnalibro',
+    'Show global Bookmark-View in full width.' => 'mostra la visualizzazione globale dei segnalibri a tutta larghezza.',
+    'Show pinned content first.' => 'Mostra prima il contenuto in cima.',
+    'Sort order' => 'Ordinamento',
 ];
