@@ -18,10 +18,10 @@
  */
 return [
     ' bookmarked this.' => '',
-    'Bookmark' => '',
-    'Remove bookmark' => '',
-    'Set Bookmark' => '',
-    'You' => '',
-    'You bookmarked this.' => '',
-    'and {count} more bookmarked this.' => '',
+    'Bookmark' => 'Segnalibro',
+    'Remove bookmark' => 'Togli segnalibro',
+    'Set Bookmark' => 'Metti segnalibro',
+    'You' => 'Te',
+    'You bookmarked this.' => 'Hai aggiunto questo segnalibro',
+    'and {count} more bookmarked this.' => 'e altri {count} utenti hanno aggiunto un segnalibro',
 ];
