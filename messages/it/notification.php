@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    '{displayNames} bookmarked your {contentTitle}.' => '',
-    '{displayNames} bookmarked {contentTitle}.' => '',
-    '{displayName} bookmarked your {contentTitle}.' => '',
-    '{displayName} bookmarked {contentTitle}.' => '',
+    '{displayNames} bookmarked your {contentTitle}.' => '{displayNames} hanno aggiunto un segnalibro al tuo post: {contentTitle}.',
+    '{displayNames} bookmarked {contentTitle}.' => '{displayNames} hanno aggiunto un segnalibro a {contentTitle}.',
+    '{displayName} bookmarked your {contentTitle}.' => '{displayNames} ha aggiunto un segnalibro al tuo post: {contentTitle}.',
+    '{displayName} bookmarked {contentTitle}.' => '{displayNames} ha aggiunto un segnalibro a: {contentTitle}.',
 ];
