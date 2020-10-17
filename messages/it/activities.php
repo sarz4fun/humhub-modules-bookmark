@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Bookmarked' => '',
-    'Whenever someone bookmarked something (e.g. a post or comment).' => '',
+    'Bookmarked' => 'Aggiunto ai segnalibri',
+    'Whenever someone bookmarked something (e.g. a post or comment).' => 'Ogni volta che qualcuno ha aggiunto un segnalibro (ad esempio un post o un commento).',
 ];
