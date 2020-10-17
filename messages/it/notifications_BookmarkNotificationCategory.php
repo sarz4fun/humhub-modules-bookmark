@@ -17,6 +17,6 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Bookmark' => '',
-    'Receive Notifications when someone bookmarked your content.' => '',
+    'Bookmark' => 'Segnalibro',
+    'Receive Notifications when someone bookmarked your content.' => 'Ricevi notifiche quando qualcuno ha aggiunto un segnalibro ai tuoi contenuti.',
 ];
