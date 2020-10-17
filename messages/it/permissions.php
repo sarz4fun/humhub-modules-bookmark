@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Allow other users to see your bookmarks' => '',
-    'Can manage Bookmark entries.' => '',
-    'Manage Bookmark' => '',
-    'View your bookmark stream' => '',
+    'Allow other users to see your bookmarks' => 'Permetti agli altri utenti di vedere i tuoi segnalibri',
+    'Can manage Bookmark entries.' => 'Può gestire i segnalibri',
+    'Manage Bookmark' => 'Gestisci i segnalibri',
+    'View your bookmark stream' => 'Vedi la lista dei segnalibri',
 ];
